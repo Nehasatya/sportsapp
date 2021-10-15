@@ -22,6 +22,18 @@
             android:name=".CallRoomActivity"
             android:label="@string/app_name">
         </activity>
+        <activity
+            android:name=".TrackActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name=".ThrowActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name=".JumpActivity"
+            android:label="@string/app_name">
+        </activity>
     </application>
 
 </manifest>
